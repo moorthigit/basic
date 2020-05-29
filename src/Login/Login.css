@@ -1,0 +1,11 @@
+/* .modal-dialog {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: unquote("calc(100vh - 20px)");
+    /* // 20px offset for the 10px margin on either side 
+}
+    .modal-content {
+        width: 100%;
+    } */
